@@ -55,4 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Explore and enjoy the dynamic text animation created using GSAP in this project. For any questions or suggestions, please open an issue in the repository.

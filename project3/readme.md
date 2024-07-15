@@ -33,7 +33,7 @@ To view the project:
 
 ## Preview
 
-![Project Preview](preview.mp4)
+![Project Preview](preview.mp4) (https://raw.githack.com/vikat9596/GSAP/main/project3/preview.mp4)
 
 ## Installation
 

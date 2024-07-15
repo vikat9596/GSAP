@@ -1,0 +1,130 @@
+@font-face {
+    font-family: "Gilroy";
+    src: url("./fonts/Gilroy-Regular.ttf");
+  }
+
+  body {
+    font-family: "Gilroy", sans-serif;
+    
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+/* body{
+    overflow-x: hidden;
+} */
+
+
+
+/* #nav{
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+#part2{
+    display: flex;
+    gap: 50px;
+} */
+
+/* h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 100px;
+    white-space: noWrap;
+
+} */
+
+/* #page1{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(131, 193, 213);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(71, 158, 187);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+h1{
+    position: relative;
+} */
+
+/* #page1{
+    height: 100%;
+    width: 100%;
+    background-color: greenyellow;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(134, 207, 231);
+    padding: 20vh 0;
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+#page2 h1{
+    font-size: 30vw;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: black;
+}
+
+#page1 h1{
+    font-size: 30vw;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: black;
+} */
+
+#string{
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+
+    
+}
+body{
+    background-color: #111;
+}
+
+
+

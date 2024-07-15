@@ -33,7 +33,7 @@ To view the project:
 
 ## Preview
 
-![Project Preview](preview.gif)
+![Project Preview](preview.mp4)
 
 ## Installation
 
